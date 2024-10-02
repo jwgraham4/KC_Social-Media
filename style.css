@@ -1,0 +1,63 @@
+#div-left-1{
+    width: 50%;
+    clear: left;
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    margin-left: 5%;
+    max-height: 250px;
+    overflow-x: scroll;
+
+}
+#div-right-1{
+    float: right;
+    position:relative;
+    right: 20%;
+    margin-top: 100px;
+}
+
+#div-right-2{
+    position:relative;
+    left: 65%;
+}
+#div-left-2{
+    padding-left: 5%;
+    padding-top: 3px;
+    padding-bottom: 25px;
+}
+#div-left-3{
+    padding-left: 5%;
+    padding-top: 3px;
+    padding-bottom: 25px;
+}
+#middle-2{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#middle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#contact-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#phone-num{
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#insta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
